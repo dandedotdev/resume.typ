@@ -1,7 +1,7 @@
 #let cv(title: "Dandelion Huang", body) = {
   set document(title: title)
   set text(font: "Linux Libertine", lang: "en")
-  
+
   show heading: it => [
     #pad(bottom: -0.83em, [#smallcaps(it.body)])
     #line(length: 100%, stroke: 0.083em)
@@ -29,7 +29,7 @@
   box(
     baseline: baseline,
     height: size,
-    image(path)
+    image(path),
   )
 }
 
@@ -43,7 +43,7 @@
     align(right)[
       *#duration* \
       #location
-    ]
+    ],
   )
   details
 }

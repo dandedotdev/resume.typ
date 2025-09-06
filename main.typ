@@ -37,7 +37,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
     - Redesigned the frontend component library, enhancing performance and user experience. Reduced build time and dependency count by 20%, and improved incremental build time by 50 - 70%.
     - Built a brand new design system, following Figma guidelines to ensure extensibility.
     - Streamlined NixOS configuration and CI/CD environment to accelerate development.
-  ]
+  ],
 )
 #exp(
   "Senior Engineer",
@@ -51,7 +51,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
     - Achieved component renovation with minimal changes and reduced developing time by 40% by utilizing Headless UI to separate component styles from component logic.
     - Enforced ESLint rules to solve 200+ linting errors in existing projects and transitioned them to TypeScript to eliminate dependencies on prop-types and enhance code quality.
     - Promoted more design patterns based on the existing Module Pattern.
-  ]
+  ],
 )
 #exp(
   "Contractor",
@@ -63,7 +63,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
     - Developed internal web proposal prototypes using Three.js, optimizing rendering performance with models containing 300k+ faces to achieve seamless 60 fps playback.
     - Enforced code-splitting to declutter style overrides and amplify code modularity.
     - Refactored styles with ITCSS, simplifying component design and reducing bundle size by 30%.
-  ]
+  ],
 )
 
 = Education
@@ -72,7 +72,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
   "National Taiwan University",
   "Sep. 2011 - Jan. 2016",
   "Taipei, Taiwan",
-  []
+  [],
 )
 
 = Miscellaneous
