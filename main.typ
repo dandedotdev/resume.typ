@@ -5,7 +5,7 @@
 #info((
   [
     #pad(left: 0.1em)[
-      #icon("assets/envelope.svg", baseline: 0.125em, size: 0.83em)
+      #icon("assets/envelope.svg", baseline: 0.083em, size: 0.83em)
       #link("mailto:contact@dande.dev")[*Email:* contact\@dande.dev]
     ]
   ],
@@ -48,7 +48,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
     - Redesigned and optimized the localization process to reduce complexity and improve efficiency.
     - Spearheaded AI tool integration for company-wide hackathon.
     - Consolidated Google Analytics event labels, standardized file naming conventions, and established specifications for Google Rich Results and Open Graph across LinkedIn, Facebook, and Twitter.
-    - Achieved component renovation with minimal changes and reduced developing time by 40% by utilizing Headless UI to separate component styles from component logic.
+    - Achieved component renovation with minimal changes and reduced developing time by 40%.
     - Enforced ESLint rules to solve 200+ linting errors in existing projects and transitioned them to TypeScript to eliminate dependencies on prop-types and enhance code quality.
     - Promoted more design patterns based on the existing Module Pattern.
   ],
@@ -61,7 +61,6 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
   [
     - Engineered and maintained product detail pages across 15 regions using HTML, SCSS, and Vanilla JavaScript, with custom layouts for 4 regions to ensure consistent UX and brand integrity.
     - Developed internal web proposal prototypes using Three.js, optimizing rendering performance with models containing 300k+ faces to achieve seamless 60 fps playback.
-    - Enforced code-splitting to declutter style overrides and amplify code modularity.
     - Refactored styles with ITCSS, simplifying component design and reducing bundle size by 30%.
   ],
 )
@@ -77,3 +76,4 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
 
 = Miscellaneous
 - Languages: English - fluent, Chinese - native, Taiwanese - native.
+- Member of `nixpkgs`, contributing to `icondata`, `leptos-icons`,`nixpkgs`, `strum`, `tailwind-nextjs-starter-blog`, and other projects.
