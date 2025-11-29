@@ -33,7 +33,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
   "Oct. 2024 - Present",
   "Taipei, Taiwan",
   [
-    - Collaborated with international team members to develop a BMS (Battery Management System) frontend application using Rust compiled to WebAssembly.
+    - Collaborated with international team members to develop two BMS (Battery Management System) frontend applications: one built with Rust compiled to WebAssembly, and another implemented using React and Next.js.
     - Redesigned the frontend component library, enhancing performance and user experience. Reduced build time and dependency count by 20%, and improved incremental build time by 50 - 70%.
     - Built a brand new design system, following Figma guidelines to ensure extensibility.
     - Streamlined NixOS configuration and CI/CD environment to accelerate development.
@@ -76,4 +76,4 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
 
 = Miscellaneous
 - Languages: English - fluent, Chinese - native, Taiwanese - native.
-- Member of `nixpkgs`, contributing to `icondata`, `leptos-icons`,`nixpkgs`, `strum`, `tailwind-nextjs-starter-blog`, and other projects.
+- Member of `nixpkgs`, contributing to `leptos-icons`, `moonlink`, `nixpkgs`, `strum`, and other projects.
