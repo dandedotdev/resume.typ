@@ -24,7 +24,7 @@
 ))
 
 = Skills
-TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, Storybook, shadcn/ui, Three.js, Vite, Vitest, Playwright, Rust, Yew, Leptos, PostgreSQL, ClickHouse, Docker, NixOS
+React, Next.js, Svelte, TypeScript, Zod, Tailwind CSS, SCSS, Vite, Three.js, Playwright, Vitest, Redux, Leptos, Yew, Node.js, Rust, PostgreSQL, ClickHouse, Docker, Kubernetes, ArgoCD, NixOS
 
 = Experience
 #exp(
@@ -49,7 +49,7 @@ TypeScript, React, Redux, Next.js, Svelte, Node.js, HTML, SCSS, Tailwind CSS, St
     - Spearheaded AI tool integration for company-wide hackathon.
     - Consolidated Google Analytics event labels, standardized file naming conventions, and established specifications for Google Rich Results and Open Graph across LinkedIn, Facebook, and Twitter.
     - Achieved component renovation with minimal changes and reduced developing time by 40%.
-    - Enforced ESLint rules to solve 200+ linting errors in existing projects and transitioned them to TypeScript to eliminate dependencies on prop-types and enhance code quality.
+    - Enforced ESLint rules to solve 200+ linting errors in existing projects, transitioned them to TypeScript, and introduced Storybook to enhance code quality and maintainability.
     - Promoted more design patterns based on the existing Module Pattern.
   ],
 )
